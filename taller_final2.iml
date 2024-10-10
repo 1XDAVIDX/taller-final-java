@@ -10,7 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../gson-2.11.0.jar!/" />
+          <root url="jar://D:/usb_copia3/Proyectos_Java/03_09_2024/conexion_1/mysql-connector-j-8.0.31.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
